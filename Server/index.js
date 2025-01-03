@@ -19,6 +19,7 @@ const databaseURL = process.env.DATABSE_URL;
 const allowedOrigins = [
   "http://localhost:5173", // For localhost
   "http://202.131.126.201:5173", // For local network
+  "http://192.168.20.21:5173",
 ];
 
 app.use(
