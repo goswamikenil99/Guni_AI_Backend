@@ -24,6 +24,7 @@ const allowedOrigins = [
   "https://aiec.guni.ac.in",
   "http://aiec.guni.ac.in",
   "http://aiec.guni.ac.in:8800",
+  "https://aiec.guni.ac.in:8800",
 ];
 
 app.use(
