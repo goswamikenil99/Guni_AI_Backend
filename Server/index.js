@@ -21,7 +21,7 @@ const allowedOrigins = [
   "http://202.131.126.201:5173", // For local network
   "http://192.168.20.21:5173",
   "http://202.131.126.217:5173",
-  "https://aiec.guni.ac.in/",
+  "https://aiec.guni.ac.in",
 ];
 
 app.use(
