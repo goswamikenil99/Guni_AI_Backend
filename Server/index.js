@@ -22,6 +22,8 @@ const allowedOrigins = [
   "http://192.168.20.21:5173",
   "http://202.131.126.217:5173",
   "https://aiec.guni.ac.in",
+  "http://aiec.guni.ac.in",
+  "http://aiec.guni.ac.in:8800",
 ];
 
 app.use(
